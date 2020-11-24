@@ -5,7 +5,7 @@ The program generates...
 
 ![tangent](poisson_process.PNG)
 
-# [Program 2: Generating Distributions](https://github.com/JuneMaths/MATLAB-programs/blob/main/Normal_distribution/Main.m)
+# [Program 2: Generating Normal Distribution](https://github.com/JuneMaths/MATLAB-programs/blob/main/Normal_distribution/Main.m)
 The program generates N = 10000 realizations of the Normal distributions with three different methods (Box-Muller, Polar Coordinates, Rejection-Acceptance) with the appropriate parameters. It counts the characteristics and visually compares the theoretical and empirical distribution and distribution density.
 
 ![plot](Normal_Plot.PNG)
