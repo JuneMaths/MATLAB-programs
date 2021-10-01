@@ -1,7 +1,7 @@
 # MATLAB-programs
 
 # [Program 1: Generating Poisson process](https://github.com/JuneMaths/MATLAB-programs/blob/main/Poisson_process.m)
-The program generates...
+The program generates Poisson process
 
 ![tangent](poisson_process.PNG)
 
